@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>XNU</name>
+			<url>https://twitter.com/realrodrifrut</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>XMI</name>
+			<url>https://github.com/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
